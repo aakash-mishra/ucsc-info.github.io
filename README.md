@@ -1,5 +1,3 @@
-# UCSC General Info and FAQ (for prospective students)
-
 ### If you have additional questions that are not covered here, please drop me a line on my [LinkedIn](https://www.linkedin.com/in/mishra-aakash/)
 
 1. *How good is the CS program at UCSC?*  
