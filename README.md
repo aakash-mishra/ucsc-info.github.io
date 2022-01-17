@@ -1,12 +1,12 @@
 ### UCSC prospective students FAQ. If you have additional questions that are not covered here, please drop me a line on my [LinkedIn](https://www.linkedin.com/in/mishra-aakash/)
 
 1. *How good is the CS program at UCSC?*  
-The CS program, while not the most famous, is pretty good at UCSC. The professors are all passionate CS researchers and quite adept at what they're doing. Most courses involve fair bit of Math or a research component (where you're required to read papers every week and submit your reading response as homework) or a coding project at the end - or any combination of the above. In any case, the courses are excellent and highly challenging.
+The CS program, while not the most famous, is pretty good at UCSC. The professors are all passionate CS researchers and quite adept at what they're doing. Most courses involve fair bit of math or a research component (where you're required to read papers every week and submit your reading response as homework) or a coding compoment (a project at the end of the course/weekly assignments) - or any combination of the above. In any case, the courses are excellent and highly challenging.
 
 2. *Fees!?*  
-This is an interesting question with two possible answers.  
-- Fees if you get a TA - The quarterly fees if you get a TA appointment is **~5k** USD. 
-- Fees without a TA - The quarterly fees without a TA appointment is **~11k** USD. 
+This is a question that I get asked a lot, and, it has two possible answers:  
+- Quarterly fee if you get a TA appointment is **~5k** USD
+- Quarterly fee without a TA appointment is **~11k** USD
 
 3. *How likely is it to get a TA appointment?*  
 Very. In my current batch, **every** student who applied for a TA position has got the job.
