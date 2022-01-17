@@ -1,6 +1,6 @@
 # UCSC General Info and FAQ (for prospective students)
 
-### I will structure this page in an FAQ-like format that will hopefully cover any questions that you might have. If you have additional questions that are not covered here, please drop me a line on my [LinkedIn](https://www.linkedin.com/in/mishra-aakash/)
+### If you have additional questions that are not covered here, please drop me a line on my [LinkedIn](https://www.linkedin.com/in/mishra-aakash/)
 
 1. *How good is the CS program at UCSC?*  
 The CS program, while not the most famous, is pretty good at UCSC. The professors are all passionate CS researchers and quite adept at what they're doing. Most courses involve fair bit of Math or a research component (where you're required to read papers every week and submit your reading response as homework) or a coding project at the end - or any combination of the above. In any case, the courses are excellent and highly challenging.
